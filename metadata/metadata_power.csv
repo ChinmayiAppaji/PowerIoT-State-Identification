@@ -13,13 +13,13 @@
 11,IB,<class 'numpy.float64'>,Current for Phase B (Amp)
 12,IC,<class 'numpy.float64'>,Current for Phase C (Amp)
 13,INCURENT,<class 'numpy.float64'>,Input Current (Amp)
-14,PFA,<class 'numpy.float64'>,Power Factor for Phase A
-15,PFB,<class 'numpy.float64'>,Power Factor for Phase B
-16,PFC,<class 'numpy.float64'>,Power Factor for Phase C
-17,PFT,<class 'numpy.float64'>,Total Power Factor
-18,PhaseA,<class 'numpy.float64'>,Phase A Value
-19,PhaseB,<class 'numpy.float64'>,Phase B Value
-20,PhaseC,<class 'numpy.float64'>,Phase C Value
+14,PFA,<class 'numpy.float64'>,Power Factor for Phase A (kWA)
+15,PFB,<class 'numpy.float64'>,Power Factor for Phase B (kWA)
+16,PFC,<class 'numpy.float64'>,Power Factor for Phase C (kWA)
+17,PFT,<class 'numpy.float64'>,Total Power Factor (kWA)
+18,PhaseA,<class 'numpy.float64'>,Phase A Value (radians)
+19,PhaseB,<class 'numpy.float64'>,Phase B Value (radians)
+20,PhaseC,<class 'numpy.float64'>,Phase C Value (radians)
 21,ReactivePA,<class 'numpy.float64'>,Reactive Power for Phase A (Watt)
 22,ReactivePB,<class 'numpy.float64'>,Reactive Power for Phase B (Watt)
 23,ReactivePC,<class 'numpy.float64'>,Reactive Power for Phase C (Watt)
